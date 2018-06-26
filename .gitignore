@@ -75,3 +75,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+ArchVisDemoV2/Content/ArchVis/
+ArchVisDemoV2/Content/Audio/
+ArchVisDemoV2/Content/Blueprints/
+ArchVisDemoV2/Content/Maps/
+ArchVisDemoV2/Intermediate/
+ArchVisDemoV2/Saved/
+ArchVisDemoV2/Config/
+ArchVisDemoV2/Content/Sequences/
